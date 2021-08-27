@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tekst">TEKST</string>
+    <string name="button">Button</string>
+    <string name="_12_cost_200">+12 cost 200</string>
+    <string name="_7_cost_100">+7 cost 100</string>
+    <string name="_3_cost_35">+3 cost 35</string>
+    <string name="_1_cost_10">+1 cost 10</string>
+    <string name="score">score</string>
+    <string name="time">time</string>
+</resources>
